@@ -20,6 +20,7 @@ This is a full responsive mobile app built using flutter framework to demonstrat
 some Screenshots of the app: Note ```it's not to demonstrate all the features it's just to showcase some of it's section:```
 
 ![App Screenshot](https://github.com/ibnuyezid/instagram_clone/blob/master/screensho/feed.png?raw=true)  ![App Screenshot](https://github.com/ibnuyezid/instagram_clone/blob/master/screensho/profile.png?raw=true)
+
 ![App Screenshot](https://github.com/ibnuyezid/instagram_clone/blob/master/screensho/add_post.png?raw=true)
 
 
